@@ -1,17 +1,14 @@
-﻿<Properties StartupConfiguration="{965AFDC3-B7FB-426A-ACEE-D62B5698C57B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
+﻿<Properties StartupConfiguration="{831E0BA3-571C-4C1F-B194-6B23BE80A606}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp1/Program.cs">
     <Files>
-      <File FileName="ConsoleApp1/Program.cs" Line="1" Column="1" />
-      <File FileName="ConsoleApp1/Dockerfile" Line="17" Column="19" />
-      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/Program.cs" Line="9" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ConsoleApp1" expanded="True">
-            <Node name="ConsoleApp1" expanded="True" />
-            <Node name="docker-compose" expanded="True">
-              <Node name="docker-compose.yml" selected="True" />
+            <Node name="ConsoleApp1" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +18,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ConsoleApp1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
