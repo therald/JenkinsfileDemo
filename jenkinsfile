@@ -5,7 +5,8 @@ node {
     }
     stage('Build') {
         echo 'Building....'
-        sh 'docker-compose up'
+        sh 'dotnet --version'
+        sh 'dotnet build ConsoleApp1'
     }
     stage('Test') {
         echo 'Testing....'
