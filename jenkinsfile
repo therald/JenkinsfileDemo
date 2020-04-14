@@ -1,4 +1,4 @@
-node {
+node('slave') {
     stage('Prepare') {
         echo 'Gathering code from version control....'
         git branch: '${branch}', url: 'https://github.com/therald/JenkinsfileDemo.git'
